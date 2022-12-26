@@ -16,7 +16,7 @@ global.APIKeys = {
 global.autoread = false // auto read message
 global.autobio = true //auto ganti bio
 global.anticall = true //anti call 
-global.userRegister = true 
+global.userRegister = false 
 global.autoblok212 = true //ubah jadi true biar nmr 212 di blok sama bot
 
 //language
